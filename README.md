@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Manelitu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Manelitu/Manelitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in learn and work in web development
+- 🌱 I’m currently learning fullstack Javascript, I have no experience in the area, but I am dedicating myself to learning more and more.
+- 📫 My email is emanuelwork1@gmail.com
