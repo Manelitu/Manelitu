@@ -1,7 +1,7 @@
 
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Emanuel Victor!
 
-<img align="right" src="https://i.ibb.co/Mctjcpf/Design-sem-nome-1.png" width="280" />
+<img align="right" src="https://i.ibb.co/Mctjcpf/Design-sem-nome-1.png" width="270" />
 
 ```javascript
 const emanuel = {
