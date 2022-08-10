@@ -15,8 +15,7 @@ const emanuel = {
       backend: ["NodeJS", "Express"],
       database: ["PostgreSQL", "MySQL", "MongoDB"],
       tools: ["GIT", "GitHub", "GitLab", "Figma"],
-      misc: ["SCRUM", "SOLID"]       
-    }
+      misc: ["SCRUM", "SOLID"]
 };
 ```
 
