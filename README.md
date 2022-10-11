@@ -16,6 +16,7 @@ const emanuel = {
       database: ["PostgreSQL", "MySQL", "MongoDB"],
       tools: ["GIT", "GitHub", "GitLab", "Figma"],
       misc: ["SCRUM", "SOLID"],
+      tests: ["Jest"],
 };
 ```
 
