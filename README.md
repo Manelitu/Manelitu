@@ -5,18 +5,25 @@
 
 ```javascript
 const emanuel = {
-    aboutMe: ["24 years old", "tech lover", "web developer", "music"],
+    aboutMe: ["25 years old", "tech lover", "web developer", "music"],
     askMeAbout: ["web development", "tech", "music", "games", "UI/UX"],
     education: ["Systems analysis and development at the University of Fortaleza"],
     technologies: {
       frontend: [
-       "HTML", "CSS", "Typescript", "ReactJS", "Vite", "Bootstrap", "Sass"
+       "HTML",
+        "CSS",
+        "Typescript",
+        "ReactJS",
+        "Vite",
+        "Bootstrap",
+        "Angular",
+        "Tailwind"
       ],
-      backend: ["NodeJS", "Express"],
+      backend: ["NodeJS", "Express", "NestJs", "Java", "SpringBoot", "Docker"],
       database: ["PostgreSQL", "MySQL", "MongoDB"],
       tools: ["GIT", "GitHub", "GitLab", "Figma"],
       misc: ["SCRUM", "SOLID"],
-      tests: ["Jest"],
+      tests: ["Jest", "Testing Library"],
 };
 ```
 
